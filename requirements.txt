@@ -4,7 +4,6 @@ matplotlib
 seaborn
 requests
 python-dotenv
-re  # optional; included by default in Python but harmless to list
 langchain
 langchain-community
 faiss-cpu  # for FAISS (use faiss-gpu if you're using GPU locally)
