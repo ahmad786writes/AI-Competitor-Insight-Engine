@@ -1,6 +1,7 @@
 streamlit
 pandas
 matplotlib
+openpyxl
 seaborn
 requests
 python-dotenv
